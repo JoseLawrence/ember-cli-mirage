@@ -50,7 +50,7 @@
     "fake-xml-http-request": "^2.0.0",
     "faker": "^3.0.0",
     "lodash": "^4.17.11",
-    "pretender": "2.1.1",
+    "pretender": "3.1.0",
     "route-recognizer": "^0.3.4"
   },
   "devDependencies": {
