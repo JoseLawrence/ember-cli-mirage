@@ -10,6 +10,9 @@ module.exports = {
 
   options: {
     nodeAssets: {
+      'whatwg-fetch': npmAsset({
+        import: ['dist/fetch.umd.js']
+      }),
       'route-recognizer': npmAsset({
         srcDir: 'dist',
         import: ['route-recognizer.js'],
