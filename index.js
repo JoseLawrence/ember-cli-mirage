@@ -18,9 +18,6 @@ module.exports = {
         import: ['route-recognizer.js'],
         vendor: ['route-recognizer.js.map']
       }),
-      'fake-xml-http-request': npmAsset({
-        import: ['fake_xml_http_request.js']
-      }),
       'faker': npmAsset({
         import: ['build/build/faker.js']
       })
